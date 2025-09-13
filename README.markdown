@@ -1,4 +1,4 @@
-# 📊 SQL-Based Relational Database Project
+# 📊 SQL-Based Relational Database Project (Intermediate Project)
 
 A relational database system modeling a **customer–order management workflow**, demonstrating schema design, table creation with foreign keys, and SQL queries for meaningful insights.
 
